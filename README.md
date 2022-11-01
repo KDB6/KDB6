@@ -4,7 +4,7 @@
 <a href="https://kdb6.github.io/codingclass/html/alphabet.html"><img src="https://img.shields.io/badge/html-A700C2?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://kdb6.github.io/codingclass/css/index.html"><img src="https://img.shields.io/badge/css-E20000?style=flat-square&logo=github&logoColor=white"/></a>   
 
-### Effect
+### Effect🎉
 <a href="https://kdb6.github.io/codingclass/javascript/effect/gameEffect01.html"><img src="https://img.shields.io/badge/game-00D37B?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://kdb6.github.io/codingclass/javascript/effect/dataEffect01.html"><img src="https://img.shields.io/badge/data-00D3AD?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://kdb6.github.io/codingclass/javascript/effect/searchEffect01.html"><img src="https://img.shields.io/badge/search-37CFFF?style=flat-square&logo=github&logoColor=white"/></a>
