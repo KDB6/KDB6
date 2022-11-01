@@ -12,5 +12,5 @@
 <a href="https://kdb6.github.io/codingclass/javascript/effect/mouseEffect01.html"><img src="https://img.shields.io/badge/mouse-A6FFFA?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://kdb6.github.io/codingclass/javascript/effect/parallaxEffect01.html"><img src="https://img.shields.io/badge/parallax-A6BFFF?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://kdb6.github.io/codingclass/javascript/effect/sliderEffect01.html"><img src="https://img.shields.io/badge/slider-CBB9FF?style=flat-square&logo=github&logoColor=white"/></a>   
-
+   
 <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
