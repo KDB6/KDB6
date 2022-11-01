@@ -1,3 +1,3 @@
 ### KDB6 👋   
-<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/github-//forks/:user/:repo?label=Fork?style=flat-square&logo=로고명&logoColor=blue"/>   
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle={handle}&theme=warm)   
