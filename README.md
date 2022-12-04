@@ -13,16 +13,4 @@
 <a href="https://kdb6.github.io/codingclass/javascript/effect/parallaxEffect01.html"><img src="https://img.shields.io/badge/parallax-A6BFFF?style=flat-square&logo=github&logoColor=white"/></a>
 <a href="https://kdb6.github.io/codingclass/javascript/effect/sliderEffect01.html"><img src="https://img.shields.io/badge/slider-CBB9FF?style=flat-square&logo=github&logoColor=white"/></a>   
 
-## reactclass
-https://kdb6-react.netlify.app/
-
-## react_api
-https://kdb6-reactapi.netlify.app/
-
-## vueclass
-https://vueclass6.web.app/
-
-## vue_api
-https://vueapi6.web.app/
-
 <img src="http://mazandi.herokuapp.com/api?handle={handle}&theme=cold"/>
